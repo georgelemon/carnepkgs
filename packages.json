@@ -1,7 +1,7 @@
 [
   {
     "name": "concarne",
-    "url": "https://github.com/georgelemon/concarne",
+    "url": "https://github.com/getcarne/concarne",
     "method": "git",
     "tags": [
       "carne",
@@ -13,6 +13,6 @@
     ],
     "description": "Express-like web application framework for Carne",
     "license": "MIT",
-    "web": "https://github.com/georgelemon/concarne"
+    "web": "https://github.com/getcarne/concarne"
   }
 ]
