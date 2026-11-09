@@ -14,5 +14,20 @@
     "description": "Express-like web application framework for Carne",
     "license": "MIT",
     "web": "https://github.com/getcarne/concarne"
+  },
+  {
+    "name": "logs",
+    "url": "https://github.com/getcarne/logs",
+    "method": "git",
+    "tags": [
+      "carne",
+      "logger",
+      "logging",
+      "json",
+      "structured"
+    ],
+    "description": "Structured JSON and pretty logger for Carne",
+    "license": "MIT",
+    "web": "https://github.com/getcarne/logs"
   }
 ]
